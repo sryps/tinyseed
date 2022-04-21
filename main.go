@@ -36,7 +36,7 @@ type Config struct {
 // DefaultConfig returns a seed config initialized with default values
 func DefaultConfig() *Config {
 	return &Config{
-		ListenAddress:       "tcp://0.0.0.0:6969",
+		ListenAddress:       "tcp://0.0.0.0:9393",
 		ChainID:             "osmosis-1",
 		NodeKeyFile:         "node_key.json",
 		AddrBookFile:        "addrbook.json",
