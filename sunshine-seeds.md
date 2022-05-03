@@ -1,1 +1,5 @@
 bcef90de8a83673c336bf3b3a352445b3a3a1f08@cosmos-seed.sunshinevalidation.io:31038
+
+d309774e794b111a0fa2056f40aed9d488b6195e@regen-seed.sunshinevalidation.io:32064
+
+7c66126b64cd66bafd9ccfc721f068df451d31a3@osmosis-seed.sunshinevalidation.io:9393
